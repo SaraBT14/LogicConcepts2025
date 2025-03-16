@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowerTriangularMatrix", "Lo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "34", "34", "{7F927824-C12A-4D40-A570-18B441473965}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HourGlass", "HourGlass\HourGlass.csproj", "{7DCB92AD-3DD5-49C0-8322-81611C460031}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hourglass", "HourGlass\Hourglass.csproj", "{7DCB92AD-3DD5-49C0-8322-81611C460031}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
