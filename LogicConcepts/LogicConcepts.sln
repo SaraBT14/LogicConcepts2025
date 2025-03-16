@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "31", "31", "{DB96C6FB-67CD-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowerTriangularMatrix", "LowerTriangularMatrix\LowerTriangularMatrix.csproj", "{D6380EC6-8AF2-4CAA-990D-64FB3B3E3A05}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "34", "34", "{7F927824-C12A-4D40-A570-18B441473965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HourGlass", "HourGlass\HourGlass.csproj", "{7DCB92AD-3DD5-49C0-8322-81611C460031}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{D6380EC6-8AF2-4CAA-990D-64FB3B3E3A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6380EC6-8AF2-4CAA-990D-64FB3B3E3A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6380EC6-8AF2-4CAA-990D-64FB3B3E3A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCB92AD-3DD5-49C0-8322-81611C460031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCB92AD-3DD5-49C0-8322-81611C460031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCB92AD-3DD5-49C0-8322-81611C460031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCB92AD-3DD5-49C0-8322-81611C460031}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{66D472C4-12F8-43A6-AF63-1CB07A838DD2} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{D6380EC6-8AF2-4CAA-990D-64FB3B3E3A05} = {DB96C6FB-67CD-493E-8145-4E4BAAAB4C8C}
+		{7DCB92AD-3DD5-49C0-8322-81611C460031} = {7F927824-C12A-4D40-A570-18B441473965}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ABDC2EB7-6263-46FF-9EAC-20D9057BDF8D}
